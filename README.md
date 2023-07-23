@@ -1,5 +1,8 @@
 # CodeSearch
 
+#URL of CodeSearch
+https://idyllic-gumption-23385d.netlify.app/
+
 # Screenshot
 
 ![image](https://github.com/Harshkh87/CodeSearch/assets/110453465/66d5b3ec-16e5-408a-bb25-7f6dac4e38b4)
