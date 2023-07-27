@@ -1,6 +1,6 @@
 # CodeSearch - Education website
 
-EduHome is a fully responsive education website, Responsive for all devices , build using HTML , CSS , and JavaScript.
+CodeSearch is a fully responsive education website, Responsive for all devices , build using HTML , CSS , and JavaScript.
 
 # Live Demo
 https://idyllic-gumption-23385d.netlify.app/
